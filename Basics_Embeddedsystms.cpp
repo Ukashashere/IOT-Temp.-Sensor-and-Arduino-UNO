@@ -43,3 +43,5 @@ void loop()
   Serial.println(temp);      //Now the output is '24' and our aim is '25. 1 is error, no prob. as errors come, this can be resolved and the '25' can be obtained if we use 'float' in place of 'int'
 }
 /*The thing works fully on the Tkintercad 'Code' section with Aurdino UNO and a temp. sensor*/
+
+/*yayyy*/
